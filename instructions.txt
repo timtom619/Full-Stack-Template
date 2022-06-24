@@ -1,0 +1,12 @@
+//1. Initialize npm and install dependencies
+// express, dotenv, cors, mongodb, ejs, nodemon (--save-dev)
+
+//2. Require dependencies
+
+//3. Declare variables
+
+//4. Connect to Mongodb - add connection string to .env file
+
+//5. Create Port
+
+//----Test Mongo and Port connection
